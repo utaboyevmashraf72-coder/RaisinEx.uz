@@ -1,0 +1,9 @@
+{
+  "name": "Copy of RaisinEx.uz - Hyper-Advanced AI Platform",
+  "description": "A futuristic, 70-Dimension AI dashboard featuring RaisinEx.uz and RizqUp technologies. Includes Veo Video, Live API, Gemini 3 Pro, and Holographic interactions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
